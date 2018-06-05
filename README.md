@@ -1,16 +1,16 @@
 # yunusemre
-hocanın yunus.hacettepe.edu.tr/~ozkok adresindeki web sayfası inceledim.
-Aynı web sayfasının css,js dosyalarını inceleyerek indirdim.
-Kendi web sayffamı olusturdum
-Sayfanın taslağını oluşturdum 
-sayfaları koplayalayak çoğalttım
-çoğalttığım dosyaların isimlerini değiştirdim ve linklerini ayarladım
-bütün dosyaları  düzgün  bir şekilde dizin oluşturdum
-Sayfaları oluşturduktan sonra konular hakkında araştırma yaptım 
-video da kullanacağım materyelleri oluşturdum 
-metinlere çalıştım 
-bandicam  programı ile sunumları kullanarak videoları çektim 
-videoları youtubede paylaştım
-videoları ekleme kodlarını alarak sisteme entegre ettim 
-filezilla ile doyaları yunusemre.me adresine aktardım 
-dosyalarımı githuba ekledim 
+hocanın yunus.hacettepe.edu.tr/~ozkok adresindeki web sayfası inceledim.<br>
+Aynı web sayfasının css,js dosyalarını inceleyerek indirdim.<br>
+Kendi web sayffamı olusturdum<br><br>
+Sayfanın taslağını oluşturdum <br>
+sayfaları koplayalayak çoğalttım<br>
+çoğalttığım dosyaların isimlerini değiştirdim ve linklerini ayarladım<br>
+bütün dosyaları  düzgün  bir şekilde dizin oluşturdum<br>
+Sayfaları oluşturduktan sonra konular hakkında araştırma yaptım <br>
+video da kullanacağım materyelleri oluşturdum <br>
+metinlere çalıştım <br>
+bandicam  programı ile sunumları kullanarak videoları çektim <br>
+videoları youtubede paylaştım<br>
+videoları ekleme kodlarını alarak sisteme entegre ettim <br>
+filezilla ile doyaları yunusemre.me adresine aktardım <br>
+dosyalarımı githuba ekledim <br>
