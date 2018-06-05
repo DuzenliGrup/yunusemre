@@ -1,7 +1,7 @@
 # yunusemre
 hocanın yunus.hacettepe.edu.tr/~ozkok adresindeki web sayfası inceledim.<br>
 Aynı web sayfasının css,js dosyalarını inceleyerek indirdim.<br>
-Kendi web sayffamı olusturdum<br><br>
+Kendi web sayffamı olusturdum<br>
 Sayfanın taslağını oluşturdum <br>
 sayfaları koplayalayak çoğalttım<br>
 çoğalttığım dosyaların isimlerini değiştirdim ve linklerini ayarladım<br>
